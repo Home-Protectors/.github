@@ -1,5 +1,8 @@
 # 자취 백과사전
 세상의 모든 자취생들을 위한 백과사전 웹사이트 (feat. 자취남)
+[자취백과사전_2023.pdf](https://github.com/user-attachments/files/17326709/_2023.pdf)
+
+
 <br><br><br>
 
 # presentation
